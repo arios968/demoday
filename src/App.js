@@ -1,4 +1,4 @@
-import Nadbar from "./layout/Nadbar";
+import Navbar from "./layout/Navbar";
 
 
 
@@ -8,7 +8,7 @@ function App() {
       <h1 className="text-3xl font-bold underline">
       Hello world!
     </h1>
-    <Nadbar/>
+    <Navbar/>
     </div>
     
   );
